@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there!
+
+Hi I like computers.
 
 <!--
 **delightfulagony/delightfulagony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
