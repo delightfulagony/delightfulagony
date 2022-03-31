@@ -2,9 +2,9 @@
 
 Hi I like computers.
 
-[![delightfulagony's github stats](https://github-readme-stats.vercel.app/api?username=delightfulagony&hide_border=true&show_icons=true&text_color=58A6FF&bg_color=0000)](https://github.com/delightfulagony)
+[![delightfulagony's github stats](https://github-readme-stats.vercel.app/api?username=delightfulagony&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF&bg_color=0000)](https://github.com/delightfulagony)
 
-[![delightfulagony's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delightfulagony&layout=compact&exclude_repo=dotfiles,delightfulagony.github.io,ed_pfinal.github.io&hide_border=true&text_color=58A6FF&bg_color=0000)](https://github.com/delightfulagony?tab=repositories)
+[![delightfulagony's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delightfulagony&layout=compact&exclude_repo=dotfiles,delightfulagony.github.io,ed_pfinal.github.io&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF&bg_color=0000)](https://github.com/delightfulagony?tab=repositories)
 
 <!--
 **delightfulagony/delightfulagony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
